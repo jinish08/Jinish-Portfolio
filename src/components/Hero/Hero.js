@@ -19,7 +19,7 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Hello! <br />
-          I'm Jinish Shah
+          I&apos;m Jinish Shah
         </SectionTitle>
         <SectionText>
         A Full Stack Developer with expertise in building scalable web applications using Next.js and GraphQL. Proficient in optimizing website performance and enhancing SEO. Experienced in integrating advanced analytics tools and implementing user engagement features.
