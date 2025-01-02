@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: "OpenPRA",
+    description: "Open-source Probabilistic Risk Assessment platform at NC State University, aimed at modernizing PRA methodologies.",
+    image: "/images/openpra.png",
+    tags: ["React.js", "TypeScript", "RabbitMQ"],
+    visit: "https://v2.app.openpra.org/",
+    source: "https://github.com/openpra-org/openpra-monorepo",
+    id: 53,
+  },
+  {
     title: "Krypt",
     description:
       "Built a web 3.0 app called Krypt for transparent ether transfers with fun gifs.",
@@ -163,8 +172,8 @@ export const internships = [
     title: "Vedika A.I",
     description:
       "Vedika AI provides personalized learning experience to maximise every study hour along with assisting teachers",
-     image: "/images/intern1.png",
-      tags: ["Next.js", "Redux"],
+    image: "/images/intern1.png",
+    tags: ["Next.js", "Redux"],
     visit: null,
     source: "https://vedika.ai/",
     id: 99,
@@ -173,8 +182,8 @@ export const internships = [
     title: "Buyceps",
     description:
       "Buyceps is a FitnessTech company having an online and offline presence providing supplements and nutrients",
-      image: "/images/intern2.png",
-      tags: ["Typescript", "GraphQL"],
+    image: "/images/intern2.png",
+    tags: ["Typescript", "GraphQL"],
     visit: null,
     source: "https://buyceps.com/",
     id: 98,
@@ -183,8 +192,8 @@ export const internships = [
     title: "Studypaq",
     description:
       "Studypaq is a platform that connects college students through shared educational resources.",
-      image: "/images/intern3.png",
-      tags: ["Next.js", "GTM"],
+    image: "/images/intern3.png",
+    tags: ["Next.js", "Tailwind CSS"],
     visit: null,
     source: "https://www.instagram.com/studypaq.inc/",
     id: 97,
@@ -215,12 +224,12 @@ export const TimeLineData = [
     year: 2024,
     text: "I have learned and struggled a lot. Difficult times make a person stronger",
   },
-  
+
 ];
 
-export const ResumeUrl = "https://drive.google.com/file/d/1mUHh_OMRpk1I3XuyPwWcRwqBmwFw0laM/view?usp=sharing";
+export const ResumeUrl = "https://drive.google.com/file/d/1OabyOx1JVSANBdmsUQXmF7qU2BCd70Hz/view?usp=sharing";
 export const GithubUrl = "https://github.com/jinish08";
 export const LinkedInUrl =
   "https://www.linkedin.com/in/jinishshah08/";
-export const MobileNumber = "+91 7045720475";
+export const MobileNumber = "+1 984 379 2457";
 export const PersonalEmail = "jrshah6@ncsu.edu";

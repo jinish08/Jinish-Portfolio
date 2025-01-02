@@ -22,9 +22,9 @@ const Hero = (props) => (
           I&apos;m Jinish Shah
         </SectionTitle>
         <SectionText>
-        A Full Stack Developer with expertise in building scalable web applications using Next.js and GraphQL. Proficient in optimizing website performance and enhancing SEO. Experienced in integrating advanced analytics tools and implementing user engagement features.
+          A Full Stack Developer with expertise in building scalable web applications using Next.js and TypeScript. Proficient in optimizing website performance and enhancing SEO. Experienced in integrating advanced analytics tools and implementing user engagement features.
         </SectionText>
-        <div style={{ display: "flex", flexWrap: "wrap", gap: "10px" ,margin: "0 0 80px" }}>
+        <div style={{ display: "flex", flexWrap: "wrap", gap: "10px", margin: "0 0 80px" }}>
           <Button alt="resume" onClick={handleClickResume}>
             Resume
           </Button>

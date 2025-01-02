@@ -46,7 +46,7 @@ const Timeline = () => {
       const index = Math.round(
         (carouselRef.current.scrollLeft /
           (carouselRef.current.scrollWidth * 0.7)) *
-          TimeLineData.length
+        TimeLineData.length
       );
 
       setActiveItem(index);
@@ -69,7 +69,7 @@ const Timeline = () => {
       <SectionText>
         Experienced Full Stack & Frontend Developer with over 1.5 years of internship
         experience. Passionate about delivering high-quality web solutions with
-        a strong foundation in Next.js & JavaScript. Committed to writing clean code,
+        a strong foundation in Next.js & TypeScript. Committed to writing clean code,
         providing exceptional user experiences, and staying updated with
         industry trends for innovative solutions.
       </SectionText>
