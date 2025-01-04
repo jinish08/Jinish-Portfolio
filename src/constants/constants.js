@@ -230,6 +230,6 @@ export const TimeLineData = [
 export const ResumeUrl = "https://drive.google.com/file/d/1OabyOx1JVSANBdmsUQXmF7qU2BCd70Hz/view?usp=sharing";
 export const GithubUrl = "https://github.com/jinish08";
 export const LinkedInUrl =
-  "https://www.linkedin.com/in/jinishshah08/";
+  "https://www.linkedin.com/in/jinish08/";
 export const MobileNumber = "+1 984 379 2457";
 export const PersonalEmail = "jrshah6@ncsu.edu";
