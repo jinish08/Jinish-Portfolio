@@ -9,8 +9,8 @@ import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const defaultData = [
   { number: 6, text: "FreeLance Projects" },
-  { number: 1600, text: "LinkedIn Followers" },
-  { number: 50, text: "Github Repos" },
+  { number: 2000, text: "LinkedIn Followers" },
+  { number: 55, text: "Github Repos" },
 ];
 
 const Acomplishments = () => {
