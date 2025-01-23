@@ -26,7 +26,7 @@ export const projects = [
     image:
       "/images/decenmusic.png",
     tags: ["Chakra-UI", "OpenZeppelin", "Solidity"],
-    visit: "https://www.linkedin.com/posts/jinishshah08_web3-blockchain-nfts-activity-6916784997559402497-w5NE",
+    visit: "https://www.linkedin.com/posts/jinish08_web3-blockchain-nfts-activity-6916784997559402497-q3SD",
     source: "https://github.com/jinish08/decenMusic",
     id: 51,
   },
@@ -37,7 +37,7 @@ export const projects = [
     image:
       "/images/fitzilla.png",
     tags: ["Chakra-UI", "React.js", "Firebase"],
-    visit: "https://www.linkedin.com/posts/jinishshah08_reactjs-ui-project-activity-6909150279472963585-d8Fh",
+    visit: "https://www.linkedin.com/posts/jinish08_reactjs-ui-project-activity-6909150279472963585-9h50",
     source: "https://github.com/jinish08/LOC4.0_MangoDB",
     id: 50,
   },
@@ -48,7 +48,7 @@ export const projects = [
     image:
       "/images/linkedin.png",
     tags: ["MongoDb", "Socket.io", "Styled Components"],
-    visit: "https://www.linkedin.com/posts/jinishshah08_frontend-react-linkedin-activity-6899390626064945152-LlaP",
+    visit: "https://www.linkedin.com/posts/jinish08_frontend-react-linkedin-activity-6899390626064945152-N86d",
     source: "https://github.com/jinish08/LinkedIn-clone",
     id: 49,
   },
@@ -147,7 +147,7 @@ export const projects = [
     image:
       "/images/waste.png",
     tags: ["Chakra UI", "React.js", "Firebase"],
-    visit: "https://www.linkedin.com/posts/jinishshah08_react-team-wastemanagement-activity-6898851859692445696-sHOs",
+    visit: "https://www.linkedin.com/posts/jinish08_react-team-wastemanagement-activity-6898851859692445696-0OLV",
     source: "https://github.com/jinish08/breaking-code",
     id: 40,
   },
@@ -158,10 +158,21 @@ export const projects = [
     image:
       "/images/phonics.png",
     tags: ["Express.js", "Mongodb", "React.js"],
-    visit: "https://www.linkedin.com/posts/jinishshah08_react-nodejs-expressjs-activity-6844684391990521856-TMy9",
+    visit: "https://www.linkedin.com/posts/jinish08_react-nodejs-expressjs-activity-6844684391990521856-6w5y",
     source: "https://github.com/jinish08/React-app",
     id: 39,
   },
+  {
+    title: "Insta Clone",
+    description:
+      "Instagram clone with CRUD operations and user authentication",
+    image:
+      "/images/instagram.png",
+    tags: ["Firebase", "React-Native", "Android Studio"],
+    visit: "https://www.linkedin.com/posts/jinish08_reactjs-reactnative-project-activity-6867498459302297600-XX1T",
+    source: "https://github.com/jinish08/igclone-rn",
+    id: 38,
+  }
   //exam portal
   //gre word count
   //insta clone
