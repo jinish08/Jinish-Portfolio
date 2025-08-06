@@ -238,7 +238,7 @@ export const TimeLineData = [
 
 ];
 
-export const ResumeUrl = "https://drive.google.com/file/d/1GZLIEWmLVxwp8kL4m2oQ4lQMrFx7VmPZ/view?usp=sharing";
+export const ResumeUrl = "https://drive.google.com/file/d/1z36FdxYOHg_BoVF7xV2x0ac_bvZnHSTY/view?usp=sharing";
 export const GithubUrl = "https://github.com/jinish08";
 export const LinkedInUrl =
   "https://www.linkedin.com/in/jinish08/";
